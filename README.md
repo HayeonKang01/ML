@@ -2,7 +2,7 @@
 # Artificial Intelligence🤖
 
 #### [핸즈온 머신러닝](https://github.com/HayeonKang01/ML/tree/HandsOnML)
-  - 빅데이터 분석 동아리 BOAZ의 멘토멘티 스터디
+  - 빅데이터 분석 동아리 BOAZ의 멘토멘티 스터디, 혼자 공부한 실습코드
   - EDA, MNIST
   - SVM, DecisionTree, Ensemble 모델에 대해 학습
   - 과적합, 활성화 함수
